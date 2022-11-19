@@ -1,0 +1,254 @@
+#header {
+  width: 100%;
+  height: 110px;
+}
+#icon1 {
+  position: absolute;
+  width: 125px;
+  height: auto;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+#head1 {
+  width: 350px;
+  height: auto;
+  position: absolute;
+  padding-top: 32px;
+  padding-left: 125px;
+  font-size: 45px;
+  font-weight: thin;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#home {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 1100px;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: thin;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#home a {
+  text-decoration: none;
+}
+#home a:hover {
+  color: crimson;
+}
+
+#about {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 1200px;
+  padding: 5px;
+  font-size: 20px;
+  font-weight: thin;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#about a {
+  text-decoration: none;
+}
+#about a:hover {
+  color: crimson;
+}
+#profile {
+  position: absolute;
+  width: 75px;
+  height: auto;
+  margin-top: 20px;
+  margin-left: 1325px;
+}
+#search {
+  position: absolute;
+  width: 75px;
+  height: auto;
+  margin-top: 20px;
+  margin-left: 1400px;
+}
+#mainbody {
+  position: relative;
+  margin-top: 25px;
+  width: 100%;
+  height: 900px;
+}
+#contentbox {
+  width: 90%;
+  height: 900px;
+  margin-left: 5%;
+}
+#information {
+  position: absolute;
+  width: 40%;
+  height: 100%;
+  background-color:#cafafe;
+}
+#head2 {
+  position: absolute;
+  padding-left: 50px;
+  padding-top: 75px;
+  font-size: 32px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#head3 {
+  position: absolute;
+  padding-left: 50px;
+  padding-top: 160px;
+  font-size: 18px;
+  font-weight: thin;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#head4 {
+  position: absolute;
+  padding-left: 50px;
+  padding-top: 220px;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#head5 {
+  position: absolute;
+  padding-left: 50px;
+  padding-top: 350px;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #edf5e1;
+}
+#img1 {
+  position: absolute;
+  margin-left: 50px;
+  padding-top: 400px;
+}
+#login {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  margin-left: 40%;
+}
+#register {
+  position: absolute;
+  padding-left: 50px;
+  padding-top: 75px;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#note {
+  position: absolute;
+  padding-left: 50px;
+  padding-top: 120px;
+  font-size: 12px;
+  font-weight: light;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#checkb1{
+  position: absolute;
+  margin-left: 50px;
+  width:250px;
+  height: 20px;
+  margin-top: 150px;
+  font-size: 20px;
+  font-weight: light;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#b1{
+  width: 250px;
+  height:20px;
+  border-color: #05386b;
+}
+#checkb2{
+  position: absolute;
+  margin-left: 350px;
+  margin-top: 150px;
+  font-size: 20px;
+  font-weight: light;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#b2{
+  width: 250px;
+  height:20px;
+  border-color: #05386b;
+}
+#checkb3{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 210px;
+  font-size: 20px;
+  font-weight: light;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#b3{
+  width: 550px;
+  height:20px;
+  border-color: #05386b;
+}
+#checkb4{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 280px;
+  font-size: 20px;
+  font-weight: light;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#b4{
+  width: 250px;
+  height:20px;
+  border-color: #05386b;
+
+}
+#checkb5{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 340px;
+  font-size: 20px;
+  font-weight: light;
+  font-family: sans-serif;
+  color: #05386b;
+}
+#b5{
+  width: 250px;
+  height:20px;
+  border-color: #05386b;
+}
+#note1{
+  position: absolute;
+  margin-left: 45px;
+  margin-top: 400px;
+  font-size: 12px;
+  font-weight: light;
+  font-family: sans-serif;
+  color: gray;
+  height: 20px;
+}
+#submit1{
+  position: absolute;
+  margin-left: 50px;
+  margin-top: 450px;
+  font-size: 12px;
+  font-weight: light;
+  font-family: sans-serif;
+
+}
+#submit{
+  width:100px;
+  height: 25px;
+  background-color:#05386b;
+  border-color:white;
+  color: white;
+  border-radius: 5px;
+}
+#submit:hover{
+  background-color:crimson;
+}
